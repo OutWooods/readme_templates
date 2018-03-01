@@ -1,30 +1,27 @@
-<h2 align="center"> Tom Grand </h2>
+<h2 align="center"> Title </h2>
 
- <p align="center">  <a href='#projects'>Projects</a> |   <a href='#skills'>Skills</a>  |  
- <a href='#education'>Education</a> | <a href='#experience'>Experience</a> |  <a href='#interests'>Interests</a> |  <a href='https://www.linkedin.com/in/tom-grand/'>Linkedin</a> </p>
+ <p align="center">  <a href='#scenario'>Scenario</a> |   <a href='#use'>How to use</a>  |  
+ <a href='#screen_shots'>Screen Shots</a> | <a href='#approach'>Approach</a> |  <a href='#extentions'>Extentions</a> |  <a href='#feedback'>Feedback points</a> | <a href='#tech'>Tech</a> 
 
-## Scenario
+## Scenario  <a name= "scenario"></a>
 
-## How to use 
+## How to use  <a name= "use"> </a>
 
-## Screen shots
+## Screen shots <a name= "screen_shots"> </a>
 
-## Approach -- no more than 4 points (Build up 
+## Approach -- no more than 4 points <a name= "approach"> </a>
 
-## Targets (Written before starting) - no more than 4 points
+#### Targets (Written before starting) - no more than 4 points
   
-## Reflections (Written at the end) -  no more than 6 points
-#### WWW
+#### What went well - no more than 3
+ 
+#### Development points - no more than 3
 
-  
-#### EBI  
+## Extentions <a name= "extentions"> </a>
 
-
-## Feedback points
+## Feedback points <a name= "feedback"> </a>
 * These are areas I want to improve, if you see anything particularly relating to these I would be grateful for any feedback. 
    Also any feedback on anything else ofcourse! *
  
+## Tech <a name= "tech"> </a>
 
-## Tech
-  - rspec
-  - ruby
